@@ -1,2 +1,2 @@
 # leetcode_work
-Record my exercise from leetcode
+Record my practice on leetcode
