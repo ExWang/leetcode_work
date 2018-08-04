@@ -8,7 +8,7 @@
 ## C++ code available
 [**C++ code library**](https://github.com/ExWang/leetcode_work/tree/master/cpp)
 
-### List
+## Problem List
 + Backtracking
 	- 46\. Permutations
 	- 17\. Letter Combinations of a Phone Number
