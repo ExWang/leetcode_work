@@ -6,4 +6,4 @@ Record my codes for resolving problems in leetcode.
 
 
 ## C++ code available
-![leetcode_logo](https://github.com/ExWang/leetcode_work/tree/master/cpp "C++ code library")
+This is [C++ code library](https://github.com/ExWang/leetcode_work/tree/master/cpp)
