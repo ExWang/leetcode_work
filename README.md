@@ -1,2 +1,2 @@
-# leetcode_work
-Record my practice on leetcode
+# Leetcode Work
+Record my codes for resolving problems in leetcode.
