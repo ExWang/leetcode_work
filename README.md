@@ -6,7 +6,7 @@
 
 
 ## C++ code available
-[_C++ code library_](https://github.com/ExWang/leetcode_work/tree/master/cpp)
+[**C++ code library**](https://github.com/ExWang/leetcode_work/tree/master/cpp)
 
 ### List
 + Backtracking
