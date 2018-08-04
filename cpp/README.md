@@ -2,5 +2,13 @@
 
 ## List
 + Backtracking
-	- 46.Permutations
-	- 17.Letter Combinations of a Phone Number
+
+	- 46-Permutations
+	- 17-Letter Combinations of a Phone Number
+	
+	
++ List
+
+
++ Array
+	
