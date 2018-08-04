@@ -7,3 +7,15 @@ Record my codes for resolving problems in leetcode.
 
 ## C++ code available
 This is [C++ code library](https://github.com/ExWang/leetcode_work/tree/master/cpp)
+
+### List
++ Backtracking
+
+	- 46\. Permutations
+	- 17\. Letter Combinations of a Phone Number
+	
++ List
+	
+	- 92\. Reverse Linked List II
+
++ Array
