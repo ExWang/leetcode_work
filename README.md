@@ -27,4 +27,5 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 
 + Array
 
-
++ Dynamic Programming
+	- 300\. Longest Increasing Subsequence
