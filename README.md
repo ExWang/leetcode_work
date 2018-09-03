@@ -24,6 +24,7 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 	- 101\. Symmetric Tree
 	- 145\. Binary Tree Postorder Traversal
 	- 105\. **Construct Binary Tree from Preorder and Inorder Traversal**
+	- 106\. **Construct Binary Tree from Inorder and Postorder Traversal**
 
 + Array
 
