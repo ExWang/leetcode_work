@@ -29,6 +29,7 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 	- 653\. Two Sum IV - Input is a BST
 
 + Array
+	- 42\. Trapping Rain Water
 
 + Dynamic Programming
 	- 300\. Longest Increasing Subsequence
