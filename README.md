@@ -27,6 +27,7 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 	- 106\. **Construct Binary Tree from Inorder and Postorder Traversal**
 	- 102\. Binary Tree Level Order Traversal
 	- 653\. Two Sum IV - Input is a BST
+	- 236\. **Lowest Common Ancestor of a Binary Tree**
 
 + Array
 	- 42\. Trapping Rain Water
