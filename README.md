@@ -30,8 +30,8 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 	- 102\. Binary Tree Level Order Traversal
 	- 653\. Two Sum IV - Input is a BST
 	- 236\. **Lowest Common Ancestor of a Binary Tree**
-	- 543\. Diameter of Binary Tree
-	- 124\. NEED DO
+	- 543\. **Diameter of Binary Tree**
+	- 124\. Binary Tree Maximum Path Sum(Method Simiar to above)
 	- 87\. NEED DO
 	- 117\. NEED DO
 	- 99\. NEED DO
