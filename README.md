@@ -43,7 +43,7 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 + Dynamic Programming
 	- 300\. Longest Increasing Subsequence
 	- 72\. NEED DO
-	- 121\. NEED DO
+	- 121\. Best Time to Buy and Sell Stock
 	- 198\. NEED DO
 	- 312\. NEED DO
 	- 96\. NEED DO
