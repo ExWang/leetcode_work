@@ -8,6 +8,10 @@
 ## C++ code available
 [**C++ code library**](https://github.com/ExWang/leetcode_work/tree/master/cpp)
 
+## Python code available
+[**Python code library**](https://github.com/ExWang/leetcode_work/tree/master/py)
+
+
 ## Problem List
 ps: **Bold font** of the problems name means they are **emphasis**.  
 + Backtracking
@@ -38,6 +42,7 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 	- 337\. NEED DO
 
 + Array
+	- 34\. Find First and Last Position of Element in Sorted Array (Python3)
 	- 42\. Trapping Rain Water
 
 + Dynamic Programming
