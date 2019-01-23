@@ -57,3 +57,6 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 	- 140\. NEED DO
 	- 10\. NEED DO
 	- 338\. Counting Bits
+
++ String
+	- 14\. Longest Common Prefix(Python3)
