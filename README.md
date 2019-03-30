@@ -60,3 +60,4 @@ ps: **Bold font** of the problems name means they are **emphasis**.
 
 + String
 	- 14\. Longest Common Prefix(Python3)
+	- 5\. Longest Palindromic Substring(Python3)
